@@ -2,7 +2,7 @@
                                                                  ================
 
 Data analytics:
-==============
+===============
 Data analytics is the process of examining raw data to draw conclusions about that information. It involves collecting, transforming, and organizing data to reveal patterns, trends, and insights that can be used to make informed decisions. It's a broad field encompassing various techniques and tools used to extract meaning from data and drive better outcomes. 
 
 As a data analyst, you are on a journey. Think about all the data that is being generated each day and that is available in an organization, from transactional data in a traditional database, telemetry data from services that you use, to signals that you get from different areas like social media.
@@ -69,12 +69,6 @@ Artificial Intelligence:
 Artificial Intelligence (AI) helps answer questions about your data. AI refers to the simulation of human intelligence in machines that are programmed to think, learn, and adapt. In the context of analytics, AI enables systems to process vast amounts of data, recognize patterns, and deliver insights with minimal human intervention. It supports a wide range of applications, from natural language processing and image recognition to code generation and intelligent visualization suggestions.
 
 
-
-
-
-                                                                 Data Analytics:
-                                                                 ===============
-
 ✅ Day 1: What is Data Analytics?
 🔍 Summary:
 Data Analytics is the process of examining raw data to find trends, patterns, and insights that help make decisions. It’s used in nearly every field—from marketing and healthcare to finance and tech.
@@ -109,11 +103,6 @@ Improve customer service
 
 📹 YouTube Video Recommendation:
 🔗 What is Data Analytics? | Simplilearn (8 mins)
-
-📘 Small Task:
-Search for 3 job roles in Data Analytics (e.g., Data Analyst, BI Analyst, Product Analyst).
-
-Note down the tools/skills required in each.
 
 
 Data Analysis Process:
@@ -195,11 +184,6 @@ Unstructured: Full news articles, user comments, video news clips.
 
 This video explains these data types with great visuals and real-time applications in data analytics and big data.
 
-📘 Today's Task:
-Look at your own digital life:
 
-Identify one example of each type of data (structured, semi-structured, unstructured) from your phone or laptop.
-
-Optional: Try parsing a JSON file using https://jsoneditoronline.org
 
 
