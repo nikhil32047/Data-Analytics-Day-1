@@ -138,7 +138,7 @@ Soft Skills for Data Analytics: Problem solving, Critical thinking and Communica
 
 
 
-✅ Lesson Day 2: Types of Data – Structured, Semi-Structured, and Unstructured
+✅ Types of Data – Structured, Semi-Structured, and Unstructured
 🔍 Concept Summary
 Data in the real world comes in different formats. Understanding these types helps you choose the right tools and storage systems for analysis.
 
