@@ -1,0 +1,205 @@
+                                                                  Data analytics
+                                                                 ================
+
+Data analytics:
+==============
+Data analytics is the process of examining raw data to draw conclusions about that information. It involves collecting, transforming, and organizing data to reveal patterns, trends, and insights that can be used to make informed decisions. It's a broad field encompassing various techniques and tools used to extract meaning from data and drive better outcomes. 
+
+As a data analyst, you are on a journey. Think about all the data that is being generated each day and that is available in an organization, from transactional data in a traditional database, telemetry data from services that you use, to signals that you get from different areas like social media.
+
+With data and information as the most strategic asset of a business, the underlying challenge that organizations have today is understanding and using their data to positively effect change within the business. Businesses continue to struggle to use their data in a meaningful and productive way, which impacts their ability to act.
+
+A retail business should be able to use their vast amounts of data and information in such a way that impacts the business, including:
+
+Tracking inventory
+Identifying purchase habits
+Detecting user trends and patterns
+Recommending purchases
+Determining price optimizations
+Identifying and stopping fraud
+Additionally, you might be looking for daily/monthly sale patterns. Common data segments that you might want to examine include day-over-day, week-over-week, and month-over-month so that you can compare how sales have been to where they were in the same week last year, for example.
+
+Before data can be used to tell a story, it must be run through a process that makes it usable in the story. Data analysis is the process of identifying, cleaning, transforming, and modeling data to discover meaningful and useful information. The data is then crafted into a story through reports for analysis to support the critical decision-making process.
+
+As the world becomes more data-driven, storytelling through data analysis is becoming a vital component and aspect of large and small businesses. It is the reason that organizations continue to hire data analysts.
+
+Data-driven businesses make decisions based on the story that their data tells, and in today's data-driven world, data is not being used to its full potential, a challenge that most businesses face. Data analysis is, and should be, a critical aspect of all organizations to help determine the impact to their business, including evaluating customer sentiment, performing market and product research, and identifying trends or other data insights.
+
+While the process of data analysis focuses on the tasks of cleaning, modeling, and visualizing data, the concept of data analysis and its importance to business should not be understated. To analyze data, core components of analytics are divided into the following categories:
+
+Descriptive
+Diagnostic
+Predictive
+Prescriptive
+Artificial Intelligence (AI)
+
+
+Descriptive analytics:
+======================
+Descriptive analytics help answer questions about what has happened based on historical data. Descriptive analytics techniques summarize large semantic models to describe outcomes to stakeholders.
+
+By developing key performance indicators (KPIs), these strategies can help track the success or failure of key objectives. Metrics such as return on investment (ROI) are used in many industries, and specialized metrics are developed to track performance in specific industries.
+
+An example of descriptive analytics is generating reports to provide a view of an organization's sales and financial data.
+
+
+Diagnostic analytics:
+=====================
+Diagnostic analytics help answer questions about why events happened. Diagnostic analytics techniques supplement basic descriptive analytics, and they use the findings from descriptive analytics to discover the cause of these events. Then, performance indicators are further investigated to discover why these events improved or became worse. Generally, this process occurs in three steps:
+
+Identify anomalies in the data. These anomalies might be unexpected changes in a metric or a particular market.
+
+Collect data that's related to these anomalies.
+
+Use statistical techniques to discover relationships and trends that explain these anomalies.
+
+
+Predictive analytics:
+=====================
+Predictive analytics help answer questions about what will happen in the future. Predictive analytics techniques use historical data to identify trends and determine if they're likely to recur. Predictive analytical tools provide valuable insight into what might happen in the future. Techniques include a variety of statistical and machine learning techniques such as neural networks, decision trees, and regression.
+
+
+Prescriptive analytics:
+=======================
+Prescriptive analytics help answer questions about which actions should be taken to achieve a goal or target. By using insights from prescriptive analytics, organizations can make data-driven decisions. This technique allows businesses to make informed decisions in the face of uncertainty. Prescriptive analytics techniques rely on machine learning as one of the strategies to find patterns in large semantic models. By analyzing past decisions and events, organizations can estimate the likelihood of different outcomes.
+
+
+Artificial Intelligence:
+========================
+Artificial Intelligence (AI) helps answer questions about your data. AI refers to the simulation of human intelligence in machines that are programmed to think, learn, and adapt. In the context of analytics, AI enables systems to process vast amounts of data, recognize patterns, and deliver insights with minimal human intervention. It supports a wide range of applications, from natural language processing and image recognition to code generation and intelligent visualization suggestions.
+
+
+
+
+
+                                                                 Data Analytics:
+                                                                 ===============
+
+✅ Day 1: What is Data Analytics?
+🔍 Summary:
+Data Analytics is the process of examining raw data to find trends, patterns, and insights that help make decisions. It’s used in nearly every field—from marketing and healthcare to finance and tech.
+
+🔑 Key Types of Data Analytics:
+Descriptive – What happened?
+e.g., "Sales increased by 20% in June."
+
+Diagnostic – Why did it happen?
+e.g., "Because we launched a new campaign."
+
+Predictive – What will happen next?
+e.g., "Sales may rise again next month."
+
+Prescriptive – What should we do?
+e.g., "Invest more in online ads."
+
+
+🧠 Real Example:
+Imagine you work at Swiggy. You analyze delivery times:
+Descriptive: Avg. delivery was 35 mins last week.
+Diagnostic: Bad weather caused delays.
+Predictive: Expect similar delays during monsoon.
+Prescriptive: Add more delivery partners during rain.
+
+💼 Use Case:
+Companies like Amazon, Netflix, and Zomato use data analytics daily to:
+Personalize user experience
+Optimize supply chains
+Detect fraud
+Improve customer service
+
+📹 YouTube Video Recommendation:
+🔗 What is Data Analytics? | Simplilearn (8 mins)
+
+📘 Small Task:
+Search for 3 job roles in Data Analytics (e.g., Data Analyst, BI Analyst, Product Analyst).
+
+Note down the tools/skills required in each.
+
+
+Data Analysis Process:
+======================
+ Step 1: Define the Question
+ Step 2: Collect Relevant Data
+ Step 3: Clean the Data
+ Step 4: Analyze the Data
+ Step 5: Visualize the Data
+ Step 6: Share Recommendations
+
+
+What does it takes to become Data Analytics:
+============================================
+Hard Skills for Data Analytics: SQL, Excel, Python and R
+   --> this are crucial for collecting, cleaning and analyzing data efficiently.
+
+Data Visualization like: Tableau and Power BI & Professional in Mathematical concepts like statistics and probability 
+
+Soft Skills for Data Analytics: Problem solving, Critical thinking and Communication skills, A head for business. 
+    --> It's a mix of logic, creativity and strategy. 
+
+
+
+✅ Lesson Day 2: Types of Data – Structured, Semi-Structured, and Unstructured
+🔍 Concept Summary
+Data in the real world comes in different formats. Understanding these types helps you choose the right tools and storage systems for analysis.
+
+📊 1. Structured Data
+Definition: Data that is organized in rows and columns—usually stored in relational databases like MySQL, PostgreSQL, Excel, etc.
+
+Example:
+
+ID	Name	Age	City
+01	Anjali	24	Hyderabad
+02	Karan	27	Delhi
+
+Tools Used: SQL, Excel, Power BI
+
+📄 2. Semi-Structured Data
+Definition: Data that doesn’t fit neatly in a table but still has some structure using tags or markers.
+
+Examples:
+
+JSON: {"name": "Anjali", "age": 24}
+
+XML, YAML
+
+CSV with inconsistent columns
+
+Tools Used: Python (pandas, json), NoSQL (MongoDB)
+
+📷 3. Unstructured Data
+Definition: Data with no pre-defined format; very hard to organize and analyze without processing.
+
+Examples:
+
+Images, audio, video
+
+Social media posts
+
+PDF documents
+
+Emails and chat messages
+
+Tools Used: Python (NLP libraries), AI/ML, Big Data tools (Hadoop)
+
+🧠 Real-World Example:
+Let’s say you work for a news aggregation app:
+
+Structured: A database table with article titles, dates, sources.
+
+Semi-Structured: RSS feed in XML or JSON.
+
+Unstructured: Full news articles, user comments, video news clips.
+
+📹 Video Recommendation:
+▶️ Types of Data: Structured vs Semi-Structured vs Unstructured | 5 mins – Tech Primers
+
+This video explains these data types with great visuals and real-time applications in data analytics and big data.
+
+📘 Today's Task:
+Look at your own digital life:
+
+Identify one example of each type of data (structured, semi-structured, unstructured) from your phone or laptop.
+
+Optional: Try parsing a JSON file using https://jsoneditoronline.org
+
+
